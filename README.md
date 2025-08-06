@@ -1,12 +1,12 @@
-Tweet Sentiment Classifier (Binary)
+Tweet Sentiment Classifier
 
-## 📌 Objective
+## Objective
 
 To build a PyTorch-based neural network that classifies tweets as either **Negative** or **Positive** in sentiment using the Sentiment140 dataset from kaggle.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **PyTorch**
@@ -16,7 +16,7 @@ To build a PyTorch-based neural network that classifies tweets as either **Negat
 
 ---
 
-## 👨‍💻 My Role & Contributions
+## My Role & Contributions
 
 - Preprocessed a large CSV dataset (1.6M tweets) from kaggle, filtering for binary sentiment (negative vs positive).
 - Implemented a basic feedforward neural network using PyTorch with Embedding and Linear layers.
